@@ -1,0 +1,37 @@
+/* .grid-pro {
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(5rem,2fr) ); */
+     /* display: flex;
+    width: 65%;
+     margin: 20px 40px 50px 20px;
+    
+}  */
+
+/* .profile {
+    width: 100%;
+} */
+
+.grid-pro {
+    display: flex;
+    margin: 20px 20px 30px 20px
+    
+}
+
+.Al {
+    flex: 2;
+    
+}
+
+.Ed {
+    flex: 2;
+    
+}
+
+
+
+
+
+
+
+
+
